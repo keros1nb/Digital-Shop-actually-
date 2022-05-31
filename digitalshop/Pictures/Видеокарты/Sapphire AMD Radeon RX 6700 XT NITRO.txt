@@ -1,0 +1,5 @@
+Серия: Sapphire NITRO+
+Модель: Sapphire AMDRadeon RX 6700
+Год Релиза: 2021
+Тип Памяти: GDDR6
+Объем Видео Памяти: 12ГБ

@@ -1,0 +1,5 @@
+Серия: Nvidia Reference
+Модель: Nvidia Reference RTX3090
+Год Релиза: 2021
+Тип Памяти: GDDR6X
+Объем Видео Памяти: 24ГБ

@@ -1,0 +1,10 @@
+GTX 1050 TI GAMING X 4G, 30000, GTX, https://www.nvidia.com/ru-ru/
+Geforce RTX 2060, 60000, RTX, https://www.nvidia.com/ru-ru/
+Nvidia Reference RTX3090, 60000, RTX, https://www.nvidia.com/ru-ru/
+Sapphire AMD Radeon RX 6700, 117000, AMD, https://www.amd.com/ru
+Palit GeForce GTX 770 JETSTREAM, 14100, AMD, https://www.amd.com/ru
+MSI AMD Radeon RX 6700, 123500, AMD, https://www.amd.com/ru
+GeForce RTX 3070 Ti, 156000, RTX, https://www.nvidia.com/ru-ru/
+GeForce RTX 2080 STRIX, 56000, RTX, https://www.nvidia.com/ru-ru/
+GTX 1660 SUPER Gaming, 71000, GTX, https://www.nvidia.com/ru-ru/
+GTX 1080 TURBO, 35000, GTX, https://www.nvidia.com/ru-ru/

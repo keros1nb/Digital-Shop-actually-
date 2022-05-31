@@ -1,0 +1,121 @@
+C:\Users\user\Desktop\digiatalshop\digitalshop\digitalshop\bin\Debug\digitalshop.exe.config
+C:\Users\user\Desktop\digiatalshop\digitalshop\digitalshop\bin\Debug\digitalshop.exe
+C:\Users\user\Desktop\digiatalshop\digitalshop\digitalshop\bin\Debug\digitalshop.pdb
+C:\Users\user\Desktop\digiatalshop\digitalshop\digitalshop\obj\Debug\digitalshop.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\digiatalshop\digitalshop\digitalshop\obj\Debug\digitalshop.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\digiatalshop\digitalshop\digitalshop\obj\Debug\digitalshop.Description2060.resources
+C:\Users\user\Desktop\digiatalshop\digitalshop\digitalshop\obj\Debug\digitalshop.Form1.resources
+C:\Users\user\Desktop\digiatalshop\digitalshop\digitalshop\obj\Debug\digitalshop.Properties.Resources.resources
+C:\Users\user\Desktop\digiatalshop\digitalshop\digitalshop\obj\Debug\digitalshop.csproj.GenerateResource.cache
+C:\Users\user\Desktop\digiatalshop\digitalshop\digitalshop\obj\Debug\digitalshop.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\digiatalshop\digitalshop\digitalshop\obj\Debug\digitalshop.exe
+C:\Users\user\Desktop\digiatalshop\digitalshop\digitalshop\obj\Debug\digitalshop.pdb
+C:\Users\user\Desktop\digiatalshop\digitalshop\digitalshop\obj\Debug\digitalshop.Description3090.resources
+C:\Users\79022\Desktop\digiatalshop\digitalshop\digitalshop\bin\Debug\digitalshop.exe.config
+C:\Users\79022\Desktop\digiatalshop\digitalshop\digitalshop\bin\Debug\digitalshop.exe
+C:\Users\79022\Desktop\digiatalshop\digitalshop\digitalshop\bin\Debug\digitalshop.pdb
+C:\Users\79022\Desktop\digiatalshop\digitalshop\digitalshop\obj\Debug\digitalshop.csproj.AssemblyReference.cache
+C:\Users\79022\Desktop\digiatalshop\digitalshop\digitalshop\obj\Debug\digitalshop.csproj.SuggestedBindingRedirects.cache
+C:\Users\79022\Desktop\digiatalshop\digitalshop\digitalshop\obj\Debug\digitalshop.Description2060.resources
+C:\Users\79022\Desktop\digiatalshop\digitalshop\digitalshop\obj\Debug\digitalshop.Description3090.resources
+C:\Users\79022\Desktop\digiatalshop\digitalshop\digitalshop\obj\Debug\digitalshop.Form1.resources
+C:\Users\79022\Desktop\digiatalshop\digitalshop\digitalshop\obj\Debug\digitalshop.Properties.Resources.resources
+C:\Users\79022\Desktop\digiatalshop\digitalshop\digitalshop\obj\Debug\digitalshop.csproj.GenerateResource.cache
+C:\Users\79022\Desktop\digiatalshop\digitalshop\digitalshop\obj\Debug\digitalshop.csproj.CoreCompileInputs.cache
+C:\Users\79022\Desktop\digiatalshop\digitalshop\digitalshop\obj\Debug\digitalshop.exe
+C:\Users\79022\Desktop\digiatalshop\digitalshop\digitalshop\obj\Debug\digitalshop.pdb
+C:\Users\user\Desktop\digiatalshop\digitalshop\digitalshop\obj\Debug\digitalshop.Description1050.resources
+C:\Users\79022\Desktop\digiatalshop2\digitalshop\digitalshop\bin\Debug\digitalshop.exe.config
+C:\Users\79022\Desktop\digiatalshop2\digitalshop\digitalshop\bin\Debug\digitalshop.exe
+C:\Users\79022\Desktop\digiatalshop2\digitalshop\digitalshop\bin\Debug\digitalshop.pdb
+C:\Users\79022\Desktop\digiatalshop2\digitalshop\digitalshop\obj\Debug\digitalshop.csproj.AssemblyReference.cache
+C:\Users\79022\Desktop\digiatalshop2\digitalshop\digitalshop\obj\Debug\digitalshop.csproj.SuggestedBindingRedirects.cache
+C:\Users\79022\Desktop\digiatalshop2\digitalshop\digitalshop\obj\Debug\digitalshop.Description1050.resources
+C:\Users\79022\Desktop\digiatalshop2\digitalshop\digitalshop\obj\Debug\digitalshop.Description2060.resources
+C:\Users\79022\Desktop\digiatalshop2\digitalshop\digitalshop\obj\Debug\digitalshop.Description3090.resources
+C:\Users\79022\Desktop\digiatalshop2\digitalshop\digitalshop\obj\Debug\digitalshop.Form1.resources
+C:\Users\79022\Desktop\digiatalshop2\digitalshop\digitalshop\obj\Debug\digitalshop.Properties.Resources.resources
+C:\Users\79022\Desktop\digiatalshop2\digitalshop\digitalshop\obj\Debug\digitalshop.Videocard.resources
+C:\Users\79022\Desktop\digiatalshop2\digitalshop\digitalshop\obj\Debug\digitalshop.csproj.GenerateResource.cache
+C:\Users\79022\Desktop\digiatalshop2\digitalshop\digitalshop\obj\Debug\digitalshop.csproj.CoreCompileInputs.cache
+C:\Users\79022\Desktop\digiatalshop2\digitalshop\digitalshop\obj\Debug\digitalshop.exe
+C:\Users\79022\Desktop\digiatalshop2\digitalshop\digitalshop\obj\Debug\digitalshop.pdb
+C:\Users\79022\Desktop\digiatalshop2\digitalshop\digitalshop\obj\Debug\digitalshop.Page1.resources
+C:\Users\user\Desktop\digiatalshop3\digitalshop\digitalshop\bin\Debug\digitalshop.exe.config
+C:\Users\user\Desktop\digiatalshop3\digitalshop\digitalshop\bin\Debug\digitalshop.exe
+C:\Users\user\Desktop\digiatalshop3\digitalshop\digitalshop\bin\Debug\digitalshop.pdb
+C:\Users\user\Desktop\digiatalshop3\digitalshop\digitalshop\obj\Debug\digitalshop.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\digiatalshop3\digitalshop\digitalshop\obj\Debug\digitalshop.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\digiatalshop3\digitalshop\digitalshop\obj\Debug\digitalshop.Form1.resources
+C:\Users\user\Desktop\digiatalshop3\digitalshop\digitalshop\obj\Debug\digitalshop.Page1.resources
+C:\Users\user\Desktop\digiatalshop3\digitalshop\digitalshop\obj\Debug\digitalshop.Properties.Resources.resources
+C:\Users\user\Desktop\digiatalshop3\digitalshop\digitalshop\obj\Debug\digitalshop.Videocard.resources
+C:\Users\user\Desktop\digiatalshop3\digitalshop\digitalshop\obj\Debug\digitalshop.csproj.GenerateResource.cache
+C:\Users\user\Desktop\digiatalshop3\digitalshop\digitalshop\obj\Debug\digitalshop.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\digiatalshop3\digitalshop\digitalshop\obj\Debug\digitalshop.exe
+C:\Users\user\Desktop\digiatalshop3\digitalshop\digitalshop\obj\Debug\digitalshop.pdb
+C:\Users\user\Desktop\digiatalshop3\digitalshop\digitalshop\obj\Debug\digitalshop.VideocardForm.resources
+C:\Users\user\Desktop\digiatalshop3\digitalshop\digitalshop\obj\Debug\digitalshop.Filter.resources
+C:\Users\user\Desktop\все файлы\digiatalshop3\digitalshop\digitalshop\bin\Debug\digitalshop.exe.config
+C:\Users\user\Desktop\все файлы\digiatalshop3\digitalshop\digitalshop\bin\Debug\digitalshop.exe
+C:\Users\user\Desktop\все файлы\digiatalshop3\digitalshop\digitalshop\bin\Debug\digitalshop.pdb
+C:\Users\user\Desktop\все файлы\digiatalshop3\digitalshop\digitalshop\obj\Debug\digitalshop.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\все файлы\digiatalshop3\digitalshop\digitalshop\obj\Debug\digitalshop.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\все файлы\digiatalshop3\digitalshop\digitalshop\obj\Debug\digitalshop.Filter.resources
+C:\Users\user\Desktop\все файлы\digiatalshop3\digitalshop\digitalshop\obj\Debug\digitalshop.VideocardForm.resources
+C:\Users\user\Desktop\все файлы\digiatalshop3\digitalshop\digitalshop\obj\Debug\digitalshop.Form1.resources
+C:\Users\user\Desktop\все файлы\digiatalshop3\digitalshop\digitalshop\obj\Debug\digitalshop.Properties.Resources.resources
+C:\Users\user\Desktop\все файлы\digiatalshop3\digitalshop\digitalshop\obj\Debug\digitalshop.Videocard.resources
+C:\Users\user\Desktop\все файлы\digiatalshop3\digitalshop\digitalshop\obj\Debug\digitalshop.csproj.GenerateResource.cache
+C:\Users\user\Desktop\все файлы\digiatalshop3\digitalshop\digitalshop\obj\Debug\digitalshop.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\все файлы\digiatalshop3\digitalshop\digitalshop\obj\Debug\digitalshop.exe
+C:\Users\user\Desktop\все файлы\digiatalshop3\digitalshop\digitalshop\obj\Debug\digitalshop.pdb
+C:\Users\user\Desktop\все файлы\digiatalshop3\digitalshop\digitalshop\obj\Debug\digitalshop.Favourite.resources
+C:\Users\user\Desktop\все файлы\digiatalshop3\digitalshop\digitalshop\obj\Debug\digitalshop.AddVideocardForm.resources
+C:\Users\user\Desktop\все файлы\digiatalshop3\digitalshop\digitalshop\obj\Debug\digitalshop.SendMail.resources
+C:\Users\user\Desktop\все файлы\digiatalshop3\digitalshop\digitalshop\obj\Debug\digitalshop.FeedBack.resources
+C:\Users\user\Desktop\все файлы\digiatalshop3\digitalshop\digitalshop\obj\Debug\digitalshop.Auth.resources
+C:\Users\user\Desktop\все файлы\digiatalshop3\digitalshop\digitalshop\obj\Debug\digitalshop.DelVideocard.resources
+C:\Users\user\Desktop\все файлы\digiatalshop3\digitalshop\digitalshop\obj\Debug\digitalshop.Register.resources
+C:\Users\79022\Desktop\digiatalshop3\digitalshop\digitalshop\bin\Debug\digitalshop.exe.config
+C:\Users\79022\Desktop\digiatalshop3\digitalshop\digitalshop\bin\Debug\digitalshop.exe
+C:\Users\79022\Desktop\digiatalshop3\digitalshop\digitalshop\bin\Debug\digitalshop.pdb
+C:\Users\79022\Desktop\digiatalshop3\digitalshop\digitalshop\obj\Debug\digitalshop.csproj.AssemblyReference.cache
+C:\Users\79022\Desktop\digiatalshop3\digitalshop\digitalshop\obj\Debug\digitalshop.csproj.SuggestedBindingRedirects.cache
+C:\Users\79022\Desktop\digiatalshop3\digitalshop\digitalshop\obj\Debug\digitalshop.AddVideocardForm.resources
+C:\Users\79022\Desktop\digiatalshop3\digitalshop\digitalshop\obj\Debug\digitalshop.Auth.resources
+C:\Users\79022\Desktop\digiatalshop3\digitalshop\digitalshop\obj\Debug\digitalshop.DelVideocard.resources
+C:\Users\79022\Desktop\digiatalshop3\digitalshop\digitalshop\obj\Debug\digitalshop.Favourite.resources
+C:\Users\79022\Desktop\digiatalshop3\digitalshop\digitalshop\obj\Debug\digitalshop.FeedBack.resources
+C:\Users\79022\Desktop\digiatalshop3\digitalshop\digitalshop\obj\Debug\digitalshop.Filter.resources
+C:\Users\79022\Desktop\digiatalshop3\digitalshop\digitalshop\obj\Debug\digitalshop.Register.resources
+C:\Users\79022\Desktop\digiatalshop3\digitalshop\digitalshop\obj\Debug\digitalshop.SendMail.resources
+C:\Users\79022\Desktop\digiatalshop3\digitalshop\digitalshop\obj\Debug\digitalshop.VideocardForm.resources
+C:\Users\79022\Desktop\digiatalshop3\digitalshop\digitalshop\obj\Debug\digitalshop.Form1.resources
+C:\Users\79022\Desktop\digiatalshop3\digitalshop\digitalshop\obj\Debug\digitalshop.Properties.Resources.resources
+C:\Users\79022\Desktop\digiatalshop3\digitalshop\digitalshop\obj\Debug\digitalshop.Videocard.resources
+C:\Users\79022\Desktop\digiatalshop3\digitalshop\digitalshop\obj\Debug\digitalshop.csproj.GenerateResource.cache
+C:\Users\79022\Desktop\digiatalshop3\digitalshop\digitalshop\obj\Debug\digitalshop.csproj.CoreCompileInputs.cache
+C:\Users\79022\Desktop\digiatalshop3\digitalshop\digitalshop\obj\Debug\digitalshop.exe
+C:\Users\79022\Desktop\digiatalshop3\digitalshop\digitalshop\obj\Debug\digitalshop.pdb
+C:\Users\user\Source\Repos\keros1nb\Digital-Shop-actually-\digitalshop\bin\Debug\digitalshop.exe.config
+C:\Users\user\Source\Repos\keros1nb\Digital-Shop-actually-\digitalshop\bin\Debug\digitalshop.exe
+C:\Users\user\Source\Repos\keros1nb\Digital-Shop-actually-\digitalshop\bin\Debug\digitalshop.pdb
+C:\Users\user\Source\Repos\keros1nb\Digital-Shop-actually-\digitalshop\obj\Debug\digitalshop.csproj.AssemblyReference.cache
+C:\Users\user\Source\Repos\keros1nb\Digital-Shop-actually-\digitalshop\obj\Debug\digitalshop.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Source\Repos\keros1nb\Digital-Shop-actually-\digitalshop\obj\Debug\digitalshop.AddVideocardForm.resources
+C:\Users\user\Source\Repos\keros1nb\Digital-Shop-actually-\digitalshop\obj\Debug\digitalshop.Auth.resources
+C:\Users\user\Source\Repos\keros1nb\Digital-Shop-actually-\digitalshop\obj\Debug\digitalshop.DelVideocard.resources
+C:\Users\user\Source\Repos\keros1nb\Digital-Shop-actually-\digitalshop\obj\Debug\digitalshop.Favourite.resources
+C:\Users\user\Source\Repos\keros1nb\Digital-Shop-actually-\digitalshop\obj\Debug\digitalshop.FeedBack.resources
+C:\Users\user\Source\Repos\keros1nb\Digital-Shop-actually-\digitalshop\obj\Debug\digitalshop.Filter.resources
+C:\Users\user\Source\Repos\keros1nb\Digital-Shop-actually-\digitalshop\obj\Debug\digitalshop.Register.resources
+C:\Users\user\Source\Repos\keros1nb\Digital-Shop-actually-\digitalshop\obj\Debug\digitalshop.SendMail.resources
+C:\Users\user\Source\Repos\keros1nb\Digital-Shop-actually-\digitalshop\obj\Debug\digitalshop.VideocardForm.resources
+C:\Users\user\Source\Repos\keros1nb\Digital-Shop-actually-\digitalshop\obj\Debug\digitalshop.Form1.resources
+C:\Users\user\Source\Repos\keros1nb\Digital-Shop-actually-\digitalshop\obj\Debug\digitalshop.Properties.Resources.resources
+C:\Users\user\Source\Repos\keros1nb\Digital-Shop-actually-\digitalshop\obj\Debug\digitalshop.Videocard.resources
+C:\Users\user\Source\Repos\keros1nb\Digital-Shop-actually-\digitalshop\obj\Debug\digitalshop.csproj.GenerateResource.cache
+C:\Users\user\Source\Repos\keros1nb\Digital-Shop-actually-\digitalshop\obj\Debug\digitalshop.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\keros1nb\Digital-Shop-actually-\digitalshop\obj\Debug\digitalshop.exe
+C:\Users\user\Source\Repos\keros1nb\Digital-Shop-actually-\digitalshop\obj\Debug\digitalshop.pdb
